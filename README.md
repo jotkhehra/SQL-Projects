@@ -14,7 +14,6 @@ Welcome to my SQL Projects repository! 🚀 This repository showcases my experti
 ## 📂 Projects Overview
 
 ### 1. **Employee Data Management and Analysis**
-**[employee_management_procedures.sql](employee_management_procedures.sql)**  
 **Description**:  
 A comprehensive project to manage and analyze employee data, focusing on salary trends, job roles, and employee satisfaction.  
 **Highlights**:  
@@ -27,7 +26,6 @@ A comprehensive project to manage and analyze employee data, focusing on salary 
 ---
 
 ### 2. **Audit and Validation Framework**
-**[audit_and_validation_triggers.sql](audit_and_validation_triggers.sql)**  
 **Description**:  
 A project to ensure data integrity and create a robust audit trail for critical employee transactions.  
 **Highlights**:  
@@ -40,7 +38,6 @@ A project to ensure data integrity and create a robust audit trail for critical 
 ---
 
 ### 3. **Staff Compensation and Reporting**
-**[staff_compensation_management.sql](staff_compensation_management.sql)**  
 **Description**:  
 An end-to-end solution for staff compensation management, focusing on dynamic updates and performance metrics.  
 **Highlights**:  
@@ -52,8 +49,7 @@ An end-to-end solution for staff compensation management, focusing on dynamic up
 
 ---
 
-### 4. **Encapsulated Operations with PL/SQL Packages**
-**[staff_operations_package.sql](staff_operations_package.sql)**  
+### 4. **Encapsulated Operations with PL/SQL Packages** 
 **Description**:  
 A modular approach to managing staff operations using PL/SQL packages.  
 **Highlights**:  
