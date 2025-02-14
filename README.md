@@ -93,6 +93,5 @@ SQL (Structured Query Language) is the backbone of relational database managemen
 ## 🤝 Connect with Me
 
 If you have any questions or would like to collaborate, feel free to reach out!  
-📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-🐙 GitHub: [Your GitHub Profile](https://github.com/your-profile)
+📧 Email: [khehrajot407@gmail.com](mailto:khehrajot407@gmail.com)  
+🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jot-khehra/)  
